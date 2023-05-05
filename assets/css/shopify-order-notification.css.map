@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "shopify-order-notification.css",
+	"sources": [
+		"../sass/shopify-order-notification.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
