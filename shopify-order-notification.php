@@ -4,7 +4,7 @@
  * Plugin Name: Shopify Order Notification
  * Plugin URI: https://agencialaf.com
  * Description: Descrição do Shopify Order Notification.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Ingo Stramm
  * Text Domain: son
  * License: GPLv2
